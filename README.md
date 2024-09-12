@@ -21,6 +21,6 @@ The Color Guessing Game is a fun web-based game where players test their color r
 
 To run the game locally:
 
-1. Clone this repository:
+Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/color-guessing-game.git
+   git clone https://github.com/ENGibr0him/Guess-the-color-
