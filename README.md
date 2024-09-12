@@ -23,4 +23,4 @@ To run the game locally:
 
 Clone this repository:
    ```bash
-   git clone https://github.com/ENGibr0him/Guess-the-color-
+   git clone https://github.com/ENGibr0him/Guess-the-color-.git
